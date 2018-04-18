@@ -1,0 +1,41 @@
+  h2{
+    font-family: Arial;    
+  }
+
+  form {
+    border: 10px solid #f1f1f1;
+    padding: 10px; 
+    }
+
+    input[type=text], input[type=password] {
+      width: 100%;
+      padding: 2px 2px;
+      margin: 2px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+      border-radius: 5px;
+    }
+    .hint{
+      color: red;
+    }
+
+    .container {
+      padding: 16px;
+    }
+
+    body{
+      background-color:#f4f6f7 ;
+      font-family: "Lato", serif;
+    }
+    h1{
+      color: black;
+      font-weight: bolder;
+      text-align: center;
+      margin-top: 100px;  
+    }
+    .copyright{
+      text-align: center ;
+      color: black;
+      margin-top: 50px;
+    }
